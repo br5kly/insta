@@ -35,7 +35,7 @@
 
 🌟 pkg up
 
-🌟 git clone https://github.com/mrxvaau/UNIQUE
+🌟 git clone https://github.com/br5kly/insta
 
 🌟 cd UNIQUE
 
